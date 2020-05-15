@@ -18,3 +18,8 @@
 2020-05-15 17:15:55,090 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
 2020-05-15 17:15:55,092 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-15 17:15:55,093 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
+2020-05-15 17:39:08,836 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.maven:sampleMaven:0.0.1-SNAPSHOT @ /home/suprabhabhojara/DockJenkins/sampleMaven/pom.xml.
+2020-05-15 17:39:09,359 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 17:39:09,359 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
+2020-05-15 17:39:09,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 17:39:09,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
