@@ -23,3 +23,26 @@
 2020-05-15 17:39:09,359 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
 2020-05-15 17:39:09,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-15 17:39:09,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
+2020-05-15 17:49:09,381 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/suprabhabhojara/DockJenkins/sampleMaven
+2020-05-15 17:49:09,382 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-15 17:49:12,747 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 17:49:12,747 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
+2020-05-15 17:49:12,748 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 17:49:12,748 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
+2020-05-15 17:51:41,059 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-15 17:52:00,732 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/suprabhabhojara/DockJenkins/sampleMaven
+2020-05-15 17:52:00,732 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-05-15 18:14:29,721 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:29,721 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
+2020-05-15 18:14:29,722 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:29,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
+2020-05-15 18:14:30,792 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:30,792 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
+2020-05-15 18:14:30,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:30,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
+2020-05-15 18:14:44,132 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/suprabhabhojara/DockJenkins/sampleMaven
+2020-05-15 18:14:44,132 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-15 18:14:46,415 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:46,415 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/main/resources
+2020-05-15 18:14:46,417 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-15 18:14:46,417 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/suprabhabhojara/DockJenkins/sampleMaven/src/test/resources
